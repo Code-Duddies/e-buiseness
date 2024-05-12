@@ -1,5 +1,5 @@
 # e-buiseness
-we gonna hve three have three html pages.for the
+we gonna have three html pages
 
 >
 **1**Home page
