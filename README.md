@@ -28,19 +28,18 @@ This is a web development project for the code buddies team aimed at improving t
    -terms and conditions
    Etc
 
-####Home page
 **Landing Page:**
 - Showcase featured products with high-quality images.
 - Include a prominent call-to-action (CTA) to encourage visitors to explore further or join the community.
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-####About us page
+**About us page**
 
 - Share the story and mission of Handmade - Highlight the benefits of supporting local artisans ,culture,nature, aesthetics and sustainable practices.
 - Have staff member photos and roles etc
 
-####Join us page:
+**Join us page**:
 
 - Provide information on how artisans and buyers can join Handmade Haven.
   - Include a form for interested artisans(sellers) and buyers to submit their application.
@@ -51,7 +50,7 @@ Users should be able to:
   - The field is left empty
   - The email address is not formatted correctly
 
-####Buyer interface
+**Buyer interface**
 
 -Search Bar: Implement a search bar for customers to easily find specific products or categories.
 -Product preview cards with
@@ -66,7 +65,7 @@ Users should be able to:
 - Repo URL: [Repo](https://your-solution-url.com)
 - Live Site URL: [Live page](https://your-live-site-url.com)
 
-## My process
+## The process
 
 ### To be Built with
 
