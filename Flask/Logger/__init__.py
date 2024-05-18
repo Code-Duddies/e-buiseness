@@ -1,1 +1,1 @@
-from logger_calls import LoggerCalls
+from .logger_calls import LoggerCalls
