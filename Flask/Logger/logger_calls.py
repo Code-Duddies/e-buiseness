@@ -1,4 +1,4 @@
-from logger_tools import LoggerTools as LT
+from .logger_tools import LoggerTools as LT
 
 class LoggerCalls(LT):
     
