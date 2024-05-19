@@ -14,5 +14,10 @@ def about_us():
     lc.debug_call('About us page called')
     return render_template("about-us.html")
 
+@app.route("/join_us")
+def join_us():
+    lc.debug_call('Join us page called')
+    return render_template("Join us.html")
+
 if __name__ == "__main__":
     app.run()
