@@ -2,7 +2,7 @@
 import logging
 
 #Custom import
-from abstract_tool import AbstractTool
+from .abstract_tool import AbstractTool
 
 #Base Logger tools
 class LoggerTools(AbstractTool):
