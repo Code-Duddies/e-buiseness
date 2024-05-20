@@ -17,7 +17,7 @@ def about_us():
 @app.route("/join_us")
 def join_us():
     lc.debug_call('Join us page called')
-    return render_template("Join us.html")
+    return render_template("join_us.html")
 
 if __name__ == "__main__":
     app.run()
